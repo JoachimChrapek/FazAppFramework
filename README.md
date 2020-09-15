@@ -29,3 +29,4 @@ I hope that Admob will be soon published as package in Package Manager so I can 
  - Facebook service integration
  - Something for sharing our game (maybe Facebook SDK)
  - UI - my goal is to provide tool for fast UI creation, probably with premade prefabs like Buttons, Texts and few ready to use panels like Rate Us window or Own Interstital
+ - make a good and usefull packege for Unity
