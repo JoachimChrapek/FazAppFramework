@@ -1,0 +1,6 @@
+using Core;
+
+public class #SCRIPTNAME# : MainBehaviour
+{
+    
+}

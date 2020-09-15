@@ -1,0 +1,19 @@
+{
+    "name": "FazAppFramework.Editor",
+    "references": [
+        "GUID:eeefbebfbeadea8498fe392183e4e1db",
+        "GUID:cbb42e4cfd9484f52972c8f05e1c3252",
+        "GUID:85a7f7b2e1fe24ff2b4c8b5d1a746334"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
